@@ -1,0 +1,44 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5vw;
+    padding: 2em;
+    margin: auto;
+    max-width: fit-content;
+    font-size: auto;
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.break{
+    border-bottom-color: black;
+    border-bottom-style: solid;
+}
+p{
+    margin-top: 0;
+    margin-bottom: 0.5em;
+}
+.font{
+    font-style: italic;
+    margin-top: 0;
+    margin-bottom: 1em;
+}
+.dotted{
+    border-bottom-color: black;
+    border-bottom-style: dotted;
+    margin-top: 0.5em;
+    margin-bottom:0.5em;
+}
+a:link{
+    text-decoration: none;
+    color: royalblue
+}
+a:visited{
+    text-decoration: none;
+    color: royalblue
+}
+a:hover{
+    text-decoration:underline 
+}
+.gap{
+    margin-bottom:1.5em;
+}
